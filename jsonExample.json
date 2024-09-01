@@ -1,0 +1,17 @@
+{
+  "nombre": "Juan",
+  "edad": 30,
+  "ciudad": "Madrid",
+  "hobbies": ["fútbol", "lectura", "cine"],
+  "informaciónPersonal": {
+    "ocupación": "Ingeniero",
+    "estudios": "Licenciatura en Ciencias de la Computación"
+  },
+  "contacto": {
+    "email": "juan@example.com",
+    "teléfono": "+34 1234567893",
+    "teléfono2": "+34 123456789",
+    "teléfono2": "+34 123456789",
+    "teléfono3": "+34 123456789"
+  }
+}
